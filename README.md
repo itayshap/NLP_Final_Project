@@ -14,5 +14,5 @@ University of Haifa (instruction are inside the document). Once you receive the 
 * Run the nli_module notebook to upload the model, finetune it and run the experiments
 * Runtime should be approximately 30 mins on A100 GPU
 
-Enjoy!
+## Enjoy!
 
